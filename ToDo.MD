@@ -3,11 +3,12 @@
 [ ] Main site.
 
 - [x] Add Localization.
-- [x]change page direction if arabic language
-- [ ] add language switcher
+- [x]change page direction if arabic language.
+- [ ] add language switcher.
 - [ ]add dark and light mode.
+- [ ]add dark and light switcher.
 - [ ] Landing Page.
-- [ ] ERP App:
+- [ ] ERP App.
 
 ## departments
 
