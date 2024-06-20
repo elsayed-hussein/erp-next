@@ -9,6 +9,12 @@ export default function Home() {
         <h1>This is Home Page</h1>
         <h2>{t("title")}</h2>
         <Link href={"/test"}>Go to Test Page</Link>
+        <div>
+          <Link href={"/en/"}>En</Link>
+        </div>
+        <div>
+          <Link href={"/ar/"}>Ar</Link>
+        </div>
       </div>
     </main>
   );
