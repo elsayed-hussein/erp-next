@@ -2,7 +2,9 @@
 
 [ ] Main site.
 [ ] Landing Page.
-[ ] ERP App
+[ ] ERP App:
+
+- [ ] Add Localization.
 
 ## departments
 
