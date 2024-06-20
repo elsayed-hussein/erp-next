@@ -1,10 +1,12 @@
 # TODO
 
 [ ] Main site.
-[ ] Landing Page.
-[ ] ERP App:
 
-- [ ] Add Localization.
+- [x] Add Localization.
+- [x]change page direction if arabic language
+- [ ]add dark and light mode.
+- [ ] Landing Page.
+- [ ] ERP App:
 
 ## departments
 
