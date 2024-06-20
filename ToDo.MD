@@ -4,6 +4,7 @@
 
 - [x] Add Localization.
 - [x]change page direction if arabic language
+- [ ] add language switcher
 - [ ]add dark and light mode.
 - [ ] Landing Page.
 - [ ] ERP App:
